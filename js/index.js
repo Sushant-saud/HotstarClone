@@ -2,27 +2,27 @@ let movies =[
     {
         name: "falcon and winter soldier",
         des: "ectetur adipisicirepellendus quo est maxime aspeure",
-        image:"https://github.com/Sushant-saud/HotstarClone/blob/main/images/Img/poster%201.png"
+        image:"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9947/1279947-h-d5d3ff34dad1"
     },
     {
         name: "Loki",
         des:"m ipsum dolor sit amet consectetur adipisicin",
-        image: "https://github.com/Sushant-saud/HotstarClone/blob/main/images/Img/poster 2.png"
+        image:"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
     },
     {
         name: "Wanda Vision",
         des: "Lorem ipsum dolor sit ame. Ullam s aspernatur qui iure",
-        image: "https://github.com/Sushant-saud/HotstarClone/images/Img/poster 4.png"
+        image: "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
     },
     {
         name: "Raya and the last dragon",
         des: "Lorem ipsum dolor sit ame. Ullam s quo est maaturre",
-        image: "/Img/slider 4.png"
+        image: "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
     },
     {
         name: "Luca",
         des: "Lorem ipsum dolor sit amet consectetu repellma qui iure",
-        image:"./slider 5.png"
+        image:"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
     }
 
 ];
