@@ -2,28 +2,27 @@ let movies =[
     {
         name: "falcon and winter soldier",
         des: "ectetur adipisicirepellendus quo est maxime aspeure",
-        image:"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9947/1279947-h-d5d3ff34dad1"
+        image:"images/Img/poster 1.png"
     },
     {
         name: "Loki",
         des:"m ipsum dolor sit amet consectetur adipisicin",
-        image:"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
+        "images/Img/poster 2.png"
     },
     {
         name: "Wanda Vision",
         des: "Lorem ipsum dolor sit ame. Ullam s aspernatur qui iure",
-        image: "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
+      image:"images/Img/poster 3.png"
     },
     {
         name: "Raya and the last dragon",
         des: "Lorem ipsum dolor sit ame. Ullam s quo est maaturre",
-        image: "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
+        image:"images/Img/poster 4.png"
     },
     {
         name: "Luca",
         des: "Lorem ipsum dolor sit amet consectetu repellma qui iure",
-        image:"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9688/1289688-h-596fd6ea3077"
-    }
+        image:"images/Img/poster 5.png"
 
 ];
 const carousel = document.querySelector(".caraousel");
