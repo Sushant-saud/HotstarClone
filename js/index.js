@@ -22,7 +22,7 @@ let movies =[
     {
         name: "Luca",
         des: "Lorem ipsum dolor sit amet consectetu repellma qui iure",
-        image:"C:/Users/Sushant/Desktop/hotstarClone/hotstarClone/images/Img/slider 5.png"
+        image:"images/Img/slider 5.png"
     }
 
 ];
