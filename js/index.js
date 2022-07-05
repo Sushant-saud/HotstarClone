@@ -2,22 +2,22 @@ let movies =[
     {
         name: "falcon and winter soldier",
         des: "ectetur adipisicirepellendus quo est maxime aspeure",
-        image:"/images/Img/slider 2.png"
+        image:"images/Img/slider 2.png"
     },
     {
         name: "Loki",
         des:"m ipsum dolor sit amet consectetur adipisicin",
-        image: "/images/Img/slider 1.png"
+        image: "images/Img/slider 1.png"
     },
     {
         name: "Wanda Vision",
         des: "Lorem ipsum dolor sit ame. Ullam s aspernatur qui iure",
-        image: "/images/Img/slider 3.png"
+        image: "images/Img/slider 3.png"
     },
     {
         name: "Raya and the last dragon",
         des: "Lorem ipsum dolor sit ame. Ullam s quo est maaturre",
-        image: "/images/Img/slider 4.png"
+        image: "images/Img/slider 4.png"
     },
     {
         name: "Luca",
