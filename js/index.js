@@ -2,7 +2,7 @@ let movies =[
     {
         name: "falcon and winter soldier",
         des: "ectetur adipisicirepellendus quo est maxime aspeure",
-        image:"./images/Img/slider 2.png"
+        image:"https://github.com/Sushant-saud/HotstarClone/blob/main/images/Img/poster%201.png"
     },
     {
         name: "Loki",
