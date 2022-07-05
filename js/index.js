@@ -7,12 +7,12 @@ let movies =[
     {
         name: "Loki",
         des:"m ipsum dolor sit amet consectetur adipisicin",
-        image: "slider 1.png"
+        image: "https://github.com/Sushant-saud/HotstarClone/blob/main/images/Img/poster 2.png"
     },
     {
         name: "Wanda Vision",
         des: "Lorem ipsum dolor sit ame. Ullam s aspernatur qui iure",
-        image: "/slider 3.png"
+        image: "https://github.com/Sushant-saud/HotstarClone/images/Img/poster 4.png"
     },
     {
         name: "Raya and the last dragon",
